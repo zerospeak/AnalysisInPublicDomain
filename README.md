@@ -1,6 +1,4 @@
-To make the provided content GitHub-friendly, we need to ensure that the Markdown is properly formatted, Mermaid diagrams are correctly structured, and the content is clear and consistent for rendering on GitHub. Below is the revised version with fixes for syntax errors, improved readability, and adherence to GitHub's Markdown and Mermaid rendering standards. I've also removed redundant time markers (e.g., `0:15`, `0:14`), fixed the typo in the "Supply Chain Optimization" diagram (`flowchain` to `flowchart`), and ensured consistent formatting.
-
----
+ 
 
 # DSV Canada: A Leader in Canadian Logistics
 
